@@ -8,5 +8,5 @@ Championship, Game, Player, Curation, Gameplay, Governance
 [Open PDF](https://drive.google.com/file/d/1hXas7RMGg2zUgE3obFkeNVE8WpM1g8pi/view?usp=sharing).
  
  # Video
- [Open video](https://www.youtube.com/watch?v=qrs6PPQznaA) // UPLOADING RN
+ [Open video](https://github.com/marcusboyds/playersdao/blob/main/video.mp4) // UPLOADed
 
