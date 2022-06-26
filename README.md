@@ -6,4 +6,7 @@ Championship, Game, Player, Curation, Gameplay, Governance
 
 # Whitepaper 
 [Open PDF](https://drive.google.com/file/d/1hXas7RMGg2zUgE3obFkeNVE8WpM1g8pi/view?usp=sharing).
+ 
+ # Video
+ [Open video](https://www.youtube.com/watch?v=qrs6PPQznaA) //STILL UPLOADING
 
