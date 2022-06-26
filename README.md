@@ -1,6 +1,6 @@
 # PlayersDAO
 
-__Abastract__: O whitepaper apresenta como um protocolo (codeless) DAO para curação de gameplays de diversos video-games pode ser implementado na Tezos blockchain, utilizando as ferramentas para gerenciar a governaça (Homebase) e o tokenomics (2FA Token) que rege a comunidade de jogadores.
+__Abastract__: The whitepaper presents how a (codeless) DAO protocol for curating gameplays of various video games can be implemented on the Tezos blockchain, using the tools to manage the governance (Homebase) and the tokennomics (2FA Token) that governs the gamer community.
 
 Championship, Game, Player, Curation, Gameplay, Governance
 
