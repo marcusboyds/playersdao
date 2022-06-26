@@ -4,9 +4,6 @@ __Abastract__: O whitepaper apresenta como um protocolo (codeless) DAO para cura
 
 Championship, Game, Player, Curation, Gameplay, Governance
 
-# Introduction
-Video-games sempre foi um dos principais ramos da tecnologia, e com a evolução dela os jogos vem acompanhando também. E com a chegada da blockchain o nível de interação economica nesses jogos foi para nível astronomicos, diversos video-games e metaversos baseados em tokenomics estão fazendo grande sucesso com um mercado de mais de $INSERIR DADOS$ bilhões de volume, apesar da volatildiade, jogos baseados em contratos inteligentes são praticamente o futuro.
+# Whitepaper 
+[Markdown Live Preview]([https://markdownlivepreview.com/](https://drive.google.com/file/d/1hXas7RMGg2zUgE3obFkeNVE8WpM1g8pi/view?usp=sharing)).
 
-Como esses jogos tem uma engine de números completamente difrente de jogos tradicionais (Steam, Epic Games, Playstation, XBox and etc), ela deixa de fora uma incrível parcela de jogadores que não sairam da sua zona de conforto por não entenderem ou até não confiarem nesse novo sistema.
-
-A missão da PlayersDAO é mudar isso.
