@@ -5,5 +5,5 @@ __Abastract__: O whitepaper apresenta como um protocolo (codeless) DAO para cura
 Championship, Game, Player, Curation, Gameplay, Governance
 
 # Whitepaper 
-[Markdown Live Preview]([https://markdownlivepreview.com/](https://drive.google.com/file/d/1hXas7RMGg2zUgE3obFkeNVE8WpM1g8pi/view?usp=sharing)).
+[Open PDF](https://drive.google.com/file/d/1hXas7RMGg2zUgE3obFkeNVE8WpM1g8pi/view?usp=sharing).
 
